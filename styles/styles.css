@@ -1,0 +1,27 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+body {
+  background-color: rgb(26, 26, 26);
+  color: rgb(229, 229, 229);
+}
+
+a {
+  color: rgb(229, 229, 229);
+  text-decoration: none;
+  background-color: blueviolet;
+  padding: 5px 10px;
+}
+.title {
+  font-size: 3rem;
+}
+
+.recipes-container li {
+  margin-bottom: 1rem;
+}
+.recipes-container a {
+  font-size: 2rem;
+  background-color: blueviolet;
+}
